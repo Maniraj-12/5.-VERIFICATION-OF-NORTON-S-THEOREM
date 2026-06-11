@@ -27,6 +27,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 <img width="1311" height="1381" alt="image" src="https://github.com/user-attachments/assets/c0611716-007e-409f-9465-e8cc2046dbbb" />
 
 
+
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
